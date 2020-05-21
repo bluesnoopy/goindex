@@ -152,9 +152,6 @@ function formatFileSize(bytes) {
     return bytes;
 }
 
-<div  class="leftbottom">
-<a href="https://www.douban.com/group/690980/"><img src="https://i.ibb.co/8KWKqLD/image.png" width="100" height="100" alt="image"></a>
-</div>
 // 监听回退事件
 window.onpopstate = function(){
     var path = window.location.pathname;
